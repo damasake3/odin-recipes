@@ -1,0 +1,19 @@
+.omg {
+    height: 269px;
+}
+
+li > a {
+    color: red;
+    font-size:21px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1 {
+    color: darkgoldenrod;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h2 {
+    color: orange;
+}
